@@ -2,7 +2,7 @@
 
 I'm Gokul 😉, Software Engineer 👨🏻‍💻 from India. 
 
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Python+and+Java+Developer+with+1%2B+Years+Experience;Passionate+about+Machine+learning" height="40"/>
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Python+and+Java+Developer+with+1%2B+Years+Experience;Passionate+about+Data+engineering" height="40"/>
 
 <div>
 <a href="mailto: gokulgoku619@gmail.com">
