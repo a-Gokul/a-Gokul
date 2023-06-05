@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, Nice to see you. </span> </h1>
 
-I'm Gokul 😉, Software Engineer 👨🏻‍💻 from India. 
+I'm Gokul 😉, Data Engineer 👨🏻‍💻 from India. 
 
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Python+and+Java+Developer+with+1%2B+Years+Experience;Passionate+about+Data+engineering" height="40"/>
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Data+Engineer+with+1%2B+Years+Experience;Passionate+about+Data+engineering" height="40"/>
 
 <div>
 <a href="mailto: gokulgoku619@gmail.com">
